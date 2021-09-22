@@ -2,6 +2,14 @@ Instalación de JDK en el Ubuntu
 
 Ricardo Adrian Medina Gómez
 
+INDICE
+
+1 actualizacion del sistema
+2 Instalacion de Java 
+3 Java Instalado
+4 Version especifica 8 de Java
+5 Actualización de las variables de entorno
+
 Actualizacion del sistema con el (sudo apt-get update)
 ![actualizado el sistema](https://user-images.githubusercontent.com/78496018/134310622-131e1fab-e323-4c20-b644-191c04cc7a6a.png)
 
@@ -17,6 +25,10 @@ VERSION ESPECIFICA DE JAVA
 
 OpenJDK8: Utilizando el comando sudo apt install openjdk-8-jdk
 
-![OpenJDK8](https://user-images.githubusercontent.com/78496018/134312255-7485b4a3-0bb5-4cfa-a208-e67a0ad7a150.png)
+![java version](https://user-images.githubusercontent.com/78496018/134316615-bd69031d-c4d7-4c8f-adab-c9a7e83afbc5.png)
 
+Actualización de las variables de entorno
 
+![c](https://user-images.githubusercontent.com/78496018/134318360-d4db2ac8-38f4-49ea-b480-413ca3ff3036.png)
+
+![b](https://user-images.githubusercontent.com/78496018/134318377-00db4a85-06a7-4423-ab4b-a6ca9354eb73.png)
