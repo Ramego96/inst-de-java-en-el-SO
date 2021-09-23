@@ -23,7 +23,11 @@
 
 ## VERSION ESPECIFICA DE JAVA
 
-## OpenJDK8: Utilizando el comando sudo apt install openjdk-8-jdk
+## OpenJDK8: sudo apt install openjdk-8-jdk
+
+![8](https://user-images.githubusercontent.com/78496018/134487621-87b8f241-0b2b-4067-9c69-920903055553.png)
+
+## OpenJDK8: Verificamos que estemos usando la version 8 de Java
 
 ![java version](https://user-images.githubusercontent.com/78496018/134316615-bd69031d-c4d7-4c8f-adab-c9a7e83afbc5.png)
 
