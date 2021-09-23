@@ -31,6 +31,13 @@
 
 ![java version](https://user-images.githubusercontent.com/78496018/134316615-bd69031d-c4d7-4c8f-adab-c9a7e83afbc5.png)
 
+# Configuración de las variables de Entorno
+
+## Lista de las versiones de OpenJDK instaladas
+
+![diferentes versiones Java](https://user-images.githubusercontent.com/78496018/134488159-bb9e70b2-ff34-4b7b-b598-d87b1d67f229.png)
+
+
 ## Actualización de las variables de entorno
 
 ![c](https://user-images.githubusercontent.com/78496018/134318360-d4db2ac8-38f4-49ea-b480-413ca3ff3036.png)
