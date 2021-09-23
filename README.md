@@ -42,13 +42,14 @@
 
 ![nano profile](https://user-images.githubusercontent.com/78496018/134489766-51f17cd9-211a-455d-b09f-42d95f49be5b.png)
 
-## Y ya estaría completado el cambio de la version 
-
 ![Nano completado](https://user-images.githubusercontent.com/78496018/134489870-73822486-7c2c-4529-a190-c279160e808b.png)
 
-# 7 Java versión 1.8 Instalado.
+## Y ya estaría completado el cambio de la version 
 
-![java version](https://user-images.githubusercontent.com/78496018/134490037-bdc8b789-2663-4539-91d1-f500a22b94f0.png)
+![8](https://user-images.githubusercontent.com/78496018/134494947-8de67991-4680-47f6-a2fa-248c4cd199c9.png)
+
+
+# 7 Java versión 1.8 Instalado.
 
 
 
